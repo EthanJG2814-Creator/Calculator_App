@@ -8,6 +8,10 @@ A simple **iOS-style calculator** built with **Expo** and **React Native**, with
 
 *Dark-themed keypad on Android: grey expression line (e.g. `5×5`), large white result (`25`), utility row (backspace, AC, %), number keys, and orange operator column.*
 
+## Additional documentation
+
+- [Discovery Log – Calculator App Setup.pdf](./Discovery%20Log%20-%20Calculator%20App%20Setup.pdf) — setup / discovery notes for this project (same folder as this README).
+
 ## Features
 
 - **Digits 0–9** and a **decimal point**; **four operations** (+, −, ×, ÷) and **equals**
@@ -64,6 +68,7 @@ npm install
 | `assets/` | App icon, splash, and other static images |
 | `android/` | Native Android project (Gradle, manifests) for `expo run:android` |
 | `docs/` | Documentation assets (e.g. screenshot for this README) |
+| `Discovery Log - Calculator App Setup.pdf` | Discovery / setup log (PDF, next to this README) |
 
 ## License
 
